@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  HYdistortionlessSlidingImages
+//
+//  Created by henyinsitan on 16/12/2.
+//  Copyright © 2016年 刘梦翔. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "ConstantHeader.h"
+#import "UIView+XYAndWH.h"
+
+#endif /* PrefixHeader_pch */
